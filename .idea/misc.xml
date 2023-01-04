@@ -11,6 +11,8 @@
         <entry key="..\:/Users/Ahmed/AndroidStudioProjects/CustomerApp/app/src/main/res/layout/activity_orders_status.xml" value="0.24010416666666667" />
         <entry key="..\:/Users/Ahmed/AndroidStudioProjects/CustomerApp/app/src/main/res/layout/activity_register.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/Ahmed/AndroidStudioProjects/CustomerApp/app/src/main/res/layout/fragment_getting_started.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Ahmed/AndroidStudioProjects/CustomerApp/app/src/main/res/layout/fragment_order_status.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Ahmed/AndroidStudioProjects/CustomerApp/app/src/main/res/layout/order_status_card.xml" value="0.20854700854700856" />
       </map>
     </option>
   </component>
